@@ -1,5 +1,5 @@
 # Webpack 5 Angular 14 Boilerplate
-This is a Boilerplate for Angular Development. It contains the <strong>Webpack 5</strong>,<strong>Angular 14</strong>, and testing with <strong>Jest</strong>.
+This is a Boilerplate for Angular Development. It contains the <strong>Webpack 5</strong>, <strong>Angular 14</strong>, and testing with <strong>Jest</strong>.
 
 ## Use it out of the box
 ```js
