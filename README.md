@@ -26,4 +26,8 @@ npm run start-dev
 npm test
 npm test-coverage
 ```
+Here we are!
+
+![Angular App](screenshot.png)
+
 Have fun!
