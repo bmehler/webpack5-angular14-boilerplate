@@ -26,8 +26,5 @@ npm run start-dev
 npm test
 npm test-coverage
 ```
-Here we are!
-
+Here we are! Have fun!
 ![Angular App](screenshot.png)
-
-Have fun!
