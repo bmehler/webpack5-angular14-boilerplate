@@ -15,6 +15,7 @@ npm run start-prod
 - Webpack 5
 - Webpack Dev Server (listen on localhost:8080)
 - Angular 14
+- Bootstrap 5.3
 - Jest
 - An Angular Application using Lazy Loading
 
