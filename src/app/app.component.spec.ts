@@ -1,11 +1,11 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
-import { MenuComponent } from './menu/menu.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
 
 describe('AppComponent', () => {
     let component: AppComponent;
-    let menucompoent: MenuComponent;
+    let menucompoent: NavbarComponent;
     let fixture: ComponentFixture<AppComponent>;
 
     beforeEach(async () => {
@@ -13,7 +13,7 @@ describe('AppComponent', () => {
             imports: [
                 RouterTestingModule
             ],
-            declarations: [AppComponent, MenuComponent],
+            declarations: [AppComponent, NavbarComponent],
         }).compileComponents();
     });
 
