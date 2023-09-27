@@ -5,7 +5,7 @@ This is a Boilerplate for Angular Development. It contains the <strong>Webpack 5
 ```js
 git clone https://github.com/bmehler/webpack5-angular14-boilerplate.git <your_folder>
 cd webpack5-angular14-boilerplate or <your folder>
-npm install --legacy-peer-deps
+npm install --legacy-peer-deps (npm dependencies problems with css-loader and css-to-string-loader)
 npm run start-dev
 or
 npm run start-prod
