@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 
 export class NavbarComponent {
-    title = 'Angular 14 & Webpack 5 Boilerplate';
+    title = 'Angular 15 & Webpack 5 Boilerplate';
     home = 'Home';
     help = 'Need Help?';
 } 

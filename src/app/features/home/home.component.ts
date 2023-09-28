@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     styleUrls: ['./home.component.scss']
 })
 export class HomeComponent {
-    welcomeTitle = 'Welcome to Angular 14';
+    welcomeTitle = 'Welcome to Angular 15';
     welcomeText = 'This is a Angular and Webpack Boilerplate Template containing Jest for testing.This example uses Lazy Loading to speed up the Application.';
     welcomeButton = 'Try it out!';
 
