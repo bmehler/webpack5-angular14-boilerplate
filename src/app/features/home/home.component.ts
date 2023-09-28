@@ -10,7 +10,7 @@ export class HomeComponent {
     welcomeText = 'This is a Angular and Webpack Boilerplate Template containing Jest for testing.This example uses Lazy Loading to speed up the Application.';
     welcomeButton = 'Try it out!';
 
-    webpackTitle = 'Webpack';
+    webpackTitle = 'Webpack 5';
     webpackText = 'This Boilerplate containes an dev and prod environment. In the production environment an optimization is included which compress the bundle.js and makes it faster.';
     webpackButtonText1 = 'npm run start:prod';
     webpackButtonText2 = 'npm run start:dev';
